@@ -16,7 +16,7 @@
 * alsa
 
 ### Python3
-* `pip3 inatall board neopixel readchar`
+* `pip3 install board neopixel readchar`
 
 ### run
 * `modprobe snd_aloop`
